@@ -1,0 +1,6 @@
+if <condition0>:
+    <block 0>
+elif <condition1>:
+    <block 1>
+else:
+    <block 2>

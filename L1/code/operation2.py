@@ -1,0 +1,5 @@
+print(25 <= 7 and 0)
+print(25 < 7 or 1)
+print(10 or False)
+print(not False)
+print(bool(10) == bool(-10))
