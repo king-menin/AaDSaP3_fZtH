@@ -22,7 +22,7 @@ Algorithms and Data Structures and Python 3.7 - from Zero to Hero
 * [Материалы](L2/), [Видео](https://drive.google.com/file/d/14FR1TEYoJI6p5rJY4XFC0cR6Mbecb357/view?usp=sharing)
 * Домашнее задание в конце [презентации](L2/L2.pdf)
 
-## Занятие 1
+## Занятие 3
 * Структура:
 #### Часть 1. Двоичная система счисления
 **Рассматриваемые темы**: Определение; Перевод из двоичной системы в десятичную и обратно.
