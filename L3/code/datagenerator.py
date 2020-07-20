@@ -26,6 +26,5 @@ def get_random_dataset(count=100, min_columns=2, max_columns=5, min_str_len=1, m
 
 
 if __name__ == "__main__":
-    with open("L3/code/data.txt", "w") as file:
-        for line in get_random_dataset():
-            file.write("\t".join(line) + "\n")
+    # <your code here>
+    pass
